@@ -19,5 +19,4 @@ npx hardhat ignition deploy ./ignition/modules/Lock.ts
 
 Contract Address: `0xA23B456B91a2e7b4Ea3e4bD1b2E3863174873DdE`
 
-Or click link to view deployed contract: (<a href="https://sepolia.etherscan.io/address/0xA23B456B91a2e7b4Ea3e4bD1b2E3863174873DdE">View on Sepolia Etherscan</a>)
 
