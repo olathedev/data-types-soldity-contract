@@ -12,9 +12,6 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
 
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
-
 ## Contract Address
 
 Contract Address: `0xA23B456B91a2e7b4Ea3e4bD1b2E3863174873DdE`
